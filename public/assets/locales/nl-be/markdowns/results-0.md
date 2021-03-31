@@ -10,4 +10,4 @@ Een meerderheid van deelnemers (81.3%) rapporteerden dat ze nog geen Covid-19 he
 
 ### Leeftijdsverdeling
 
-<img src="belgium/images/agedistribution.png" width="100%">
+<img src="assets/images/agedistribution.png" width="100%">

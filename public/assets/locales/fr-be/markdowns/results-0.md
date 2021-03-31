@@ -10,4 +10,4 @@ The majority of the participants (81.3%) reported having no previous Covid-19 ep
 
 ### Age distribution
 
-<img src="belgium/images/agedistribution.png" width="100%">
+<img src="assets/images/agedistribution.png" width="100%">
