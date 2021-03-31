@@ -1,0 +1,16 @@
+{
+  "landing": "Welkom",
+  "home": "Mijn Infectieradar",
+  "about": "Over Infectieradar",
+  "results": "Actuele resultaten",
+  "faq": "Vraag en antwoord",
+  "login": "Inloggen",
+  "signup": "Aanmelden",
+  "exitSurveyMode": "Terug",
+  "selectedProfilePrefixInSurveyMode": "Vragen beantwoorden voor:",
+  "rightMenu": {
+    "settings": "Instellingen",
+    "logout": "Uitloggen",
+    "verified": "Activatielink opnieuw sturen"
+  }
+}

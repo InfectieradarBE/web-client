@@ -1,0 +1,131 @@
+{
+  "title": "Vraag en antwoord",
+  "cardBeforeLogin": {
+    "title": "Meedoen",
+    "body": "Help mee het coronavirus in de gaten te houden. Geef wekelijks door of je klachten hebt.",
+    "actionLabel": "Aanmelden"
+  },
+  "cardAfterLogin": {
+    "title": "Doe mee!",
+    "body": "Geef door of je klachten hebt.",
+    "actionLabel": "Vragenlijsten"
+  },
+  "accordionControls": {
+    "open": "Lees verder",
+    "close": "Verbergen"
+  },
+  "topItem": {
+    "title": "Wie heeft Infectieradar opgezet?",
+    "content": "Infectieradar is een onderzoek van het RIVM. Het is een onderdeel van Influenzanet. Influenzanet  is een Europees samenwerkingsverband tussen het RIVM en verschillende Europese universiteiten en overheden. Het doel van deze samenwerking is om de klachten van infecties, zoals bijvoorbeeld nu het nieuwe coronavirus en griep, bij mensen in Europa in kaart te brengen en te volgen. Deze gegevens worden gebruikt voor wetenschappelijk onderzoek naar infecties zoals op dit moment het nieuwe coronavirus."
+  },
+  "items": [
+    {
+      "title": "Wie kan er meedoen aan Infectieradar?",
+      "content": "Alle mensen die in Nederland wonen en internettoegang hebben, kunnen meedoen aan Infectieradar, geheel vrijwillig en  zo lang zij dat willen."
+    },
+    {
+      "title": "Hoe kan ik meedoen aan Infectieradar?",
+      "content": "Je kunt meedoen door je aan te melden  met een e-mailadres en persoonlijk wachtwoord."
+    },
+    {
+      "title": "Waarom zou ik meedoen aan Infectieradar?",
+      "content": "Om een zo goed mogelijk beeld te krijgen van de situatie op dit moment, is het belangrijk dat iedereen meedoet, ongeacht achtergrond of risicofactoren. Iemand die nooit ziek is, kan net zo goed ziek worden als iemand die vaak ziek is. Het kan ons ook helpen begrijpen waarom sommige mensen minder vaak een infectie krijgen."
+    },
+    {
+      "title": "Ik ben geen Nederlander, maar woon wel in Nederland, kan ik meedoen aan Infectieradar?",
+      "content": "Jazeker! Infectieradar is geïnteresseerd in de situatie in Nederland. Alle mensen die in Nederland wonen kunnen daarom deelnemen ook als ze een andere nationaliteit hebben."
+    },
+    {
+      "title": "Ik ben een Nederlander, maar woon in het buitenland, kan ik meedoen?",
+      "content": "Nee. Alleen mensen die in Nederland wonen, kunnen aan dit onderzoek deelnemen. Maar als je in Duitsland, Australië, Oostenrijk, Zwitserland, België, Frankrijk, Italië, Mexico, Portugal, het Verenigd Koninkrijk of Zweden woont, bestaan er in die landen vergelijkbare registraties."
+    },
+    {
+      "title": "Ik heb dit jaar de griepprik gehad. Kan ik dan meedoen?",
+      "content": "Ja hoor. Voor deelname aan Infectieradar maakt het niet uit of je bent ingeënt tegen de griep of andere aandoeningen."
+    },
+    {
+      "title": "Hoeveel tijd kost het invullen van de vragenlijst op Infectieradar?",
+      "content": "Het duurt ongeveer 5 minuten om je aan te melden en de eerste vragenlijst in te vullen. Elke week duurt het invullen van de wekelijkse vragenlijst vervolgens tussen de 30 seconden (als je geen klachten hebt), en enkele minuten (als je klachten hebt gehad)."
+    },
+    {
+      "title": "Hoe lang loopt het onderzoek via Infectieradar?",
+      "content": "Het onderzoek heeft geen einddatum. Je kunt op elk moment stoppen door je af te melden voor de wekelijkse vragenlijst. Als je later van gedachten verandert, kun je opnieuw meedoen door je weer aan te melden."
+    },
+    {
+      "title": "Kost meedoen aan Infectieradar geld?",
+      "content": "Nee, deelname aan het onderzoek is gratis en vrijwillig."
+    },
+    {
+      "title": "Welke vragen worden gesteld in de achtergrondvragenlijst?",
+      "content": "Het doel van de eerste vragenlijst is om elke gebruiker wat beter te leren kennen. Voor de meeste vragen heb  je de optie om niet te antwoorden door het antwoord ‘dat wil ik liever niet zeggen’ of ‘ik weet het niet’ te kiezen. Het invullen van deze vragenlijst duurt ongeveer 5 minuten."
+    },
+    {
+      "title": "Welke vragen worden gesteld in de wekelijkse vragenlijst?",
+      "content": "De wekelijkse vragenlijst gaat over de klachten die je mogelijk hebt gehad in de afgelopen week. Het gaat dan bijvoorbeeld om klachten zoals een loopneus, hoesten, niezen, keelpijn en koorts. Als je geen klachten hebt gehad, is het invullen zo gebeurd. Als je wel klachten hebt of hebt gehad, krijg je wat extra vragen. Bijvoorbeeld wanneer de klachten begonnen, of je naar een arts bent geweest en je ziekteverlof had. Het invullen van de vragenlijst duurt dan een paar minuten."
+    },
+    {
+      "title": "Kan ik de vragenlijst voor iemand anders invullen, bijvoorbeeld mijn kind?",
+      "content": "Ja, dat kan. Het is mogelijk om de vragenlijsten in te vullen voor je kind(eren) onder de 16. Echter, andere leden van het huishouden van 16 jaar of ouder moeten een eigen account aanmaken."
+    },
+    {
+      "title": "Ik weet niet of ik altijd de wekelijkse vragenlijst kan invullen, kan ik dan wel meedoen?",
+      "content": "Ja, je kunt gewoon meedoen. Je kunt de vragenlijsten zo vaak invullen als jij dat wil en kan. Hoe vaker je deelneemt, hoe meer gegevens we hebben en hoe eerder we een mogelijke opleving van het nieuwe coronavirus in de gaten hebben. Maar zelfs als je bijvoorbeeld eens per drie weken je klachten doorgeeft is dat nuttig."
+    },
+    {
+      "title": "Zijn mijn gegevens wel veilig?",
+      "content": "Het RIVM vindt de veiligheid van de gegevens van deelnemers aan Infectieradar heel belangrijk. Het systeem moet voldoen aan strenge eisen, bijvoorbeeld op het gebied van privacy en informatiebeveiliging. Dat is waarom we een eerdere versie van Infectieradar hebben verwijderd. Het RIVM heeft het nieuwe systeem zorgvuldig getest op het gebied van veiligheid, privacy en capaciteit, zowel door RIVM medewerkers als externe experts. Risico’s voor de rechten en vrijheden van degenen wiens persoonsgegevens worden verwerkt, zijn zorgvuldig afgewogen."
+    },
+    {
+      "title": "Wie heeft Infectieradar opgezet?",
+      "content": "Infectieradar is opgezet door het RIVM in samenwerking met een Europees samenwerkingsverband tussen verschillende universiteiten en overheden. Het doel van deze samenwerking is om de klachten van infecties, zoals het nieuwe coronavirus en griep, bij mensen in Europa in kaart te brengen en te volgen. Deze gegevens worden gebruikt voor wetenschappelijk onderzoek naar infecties."
+    },
+    {
+      "title": "Ik ben al besmet geweest met het nieuwe coronavirus, heeft het nog zin om mee te doen?",
+      "content": "Ja, doe ook mee als je al corona hebt gehad. Infectieradar is opgezet om klachten te bestuderen, ook onder mensen die het nieuwe coronavirus al hebben gehad. Als je je aanmeldt vragen we je wel om aan te geven of je al besmet bent geweest."
+    },
+    {
+      "title": "Ik ben mijn wachtwoord vergeten, wat nu?",
+      "content": "Klik bij het inlogvenster op ‘wachtwoord vergeten’. Vul je e-mailadres in en je krijgt een e-mail om een nieuw wachtwoord aan te maken."
+    },
+    {
+      "title": "Kan ik instellen of ik e-mails wil ontvangen van Infectieradar?",
+      "content": "Ja dat is mogelijk. Klik in de bovenste blauwe balk rechtsboven op jouw profielnaam. Ga naar instellingen. Daar kun je aangeven of je e-mails wil ontvangen. Bijvoorbeeld als het gaat om de wekelijkse oproep om je klachten door te geven (ook zonder wekelijkse e-mail staat er een nieuwe vragenlijst voor je klaar)."
+    },
+    {
+      "title": "Kan ik ook gegevens voor kinderen doorgeven?",
+      "content": "Ja. Dat kan. Klik in de bovenste blauwe balk rechtsboven op jouw profielnaam. Daar kun je extra profielen van je kind(eren) toevoegen. Als je het nieuwe profiel selecteert, kun je de gegevens invullen voor jouw kind."
+    },
+    {
+      "title": "Ik heb eerder meegedaan met Infectieradar, worden mijn gegevens nog steeds gebruikt met de overgang naar het nieuwe systeem?",
+      "content": "De onderzoeksgegevens uit de eerdere versies van Infectieradar gebruiken we nog steeds. Echter, heb je eerder meegedaan dan vragen we wel om opnieuw de achtergrondvragenlijst in te vullen. Dit omdat je situatie gewijzigd kan zijn sinds je aanmelding. Daarna kun je wekelijks inloggen en je klachten doorgeven. Indien je een verzoek tot wissing van gegevens hebt gedaan, worden je gegevens uit de eerdere versies van Infectieradar niet meer gebruikt."
+    },
+    {
+      "title": "Wat gebeurt er met de gegevens die ik in de vorige Infectieradar heb ingevoerd?",
+      "content": "De in de vorige Infectieradar, eerder verzamelde gegevens, zijn opgeslagen in een database bij het RIVM."
+    },
+    {
+      "title": "Ik wil niet meer meedoen, waar kan ik me afmelden?",
+      "content": "Wat jammer dat je niet meer mee wilt doen. We kunnen jouw hulp goed gebruiken om het coronavirus onder controle te houden. Maar je mag gewoon stoppen met het invullen van de wekelijkse vragenlijst. Als je je ook volledig wilt afmelden (en je account opheffen) dan kan dat. Dit kan via de instellingen."
+    },
+    {
+      "title": "Ik wil mijn antwoorden aanpassen, kan dat?",
+      "content": "Tijdens het invullen van de vragenlijst is het mogelijk om antwoorden aan te passen. Zodra je op de knop verzenden klikt, is het niet meer mogelijk om antwoorden nog aan te passen. Dit geldt zowel voor de eerste vragenlijst als voor de wekelijkse vragenlijsten."
+    },
+    {
+      "title": "Ik heb klachten, krijg ik een diagnose als ik de vragenlijst invul?",
+      "content": "Nee, de vragenlijst is alleen bedoeld om informatie te verzamelen over de klachten die mensen hebben. Je kunt de klachten doorgeven, maar dit is geen vervanging voor een bezoek aan de huisarts. Heb je klachten en wil je weten wat er aan de hand is, neem dan contact op met je huisarts."
+    },
+    {
+      "title": "Ik heb een chronische ziekte, hierdoor heb ik vaak klachten die ook in de wekelijkse vragenlijst staan, wat moet ik invullen?",
+      "content": "Sommige (chronische) ziekten kunnen leiden tot klachten uit de wekelijkse vragenlijst. Je hoeft deze klachten niet elke keer aan te vinken, tenzij de klachten zijn veranderd. Als je bijvoorbeeld reuma hebt, vink dan het vakje ‘gewrichtspijn’ alleen aan als jouw klachten recent zijn verergerd of anders zijn dan gewoonlijk."
+    },
+    {
+      "title": "Ik heb deze week geen klachten gehad, moet ik de wekelijkse vragenlijst invullen?",
+      "content": "Ja, ook als je geen klachten hebt, geef je dat door. Dat is belangrijk. Om een betrouwbaar beeld te krijgen van de situatie in Nederland willen we graag informatie over mensen met en mensen zonder klachten. Als alleen mensen met klachten deelnemen, kunnen we de ontwikkeling van het nieuwe coronavirus niet goed inschatten. Daarom is de deelname van mensen die geen klachten hebben even belangrijk als de deelname van mensen met klachten."
+    },
+    {
+      "title": "Ik krijg bij het inloggen op infectieradar de melding dat mijn wachtwoord betrokken is bij een datalek. Wat betekent dit?",
+      "content": "Bij het inloggen op infectieradar van je mobiele telefoon of tablet kan je de melding krijgen dat je wachtwoord betrokken is bij een datalek. Dit is een standaard melding van bijvoorbeeld Apple of Google wanneer je voor meer websites dezelfde gebruikersnaam en hetzelfde wachtwoord gebruikt en deze hebt opgeslagen op je telefoon of tablet. Bij één of meerdere van die andere websites is dan sprake geweest van een datalek. Via https://haveibeenpwned.com kan je nagaan of jouw wachtwoord gehackt is."
+    }
+  ]
+}
