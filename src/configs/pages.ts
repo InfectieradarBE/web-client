@@ -387,7 +387,7 @@ const aboutPage: PageConfig = {
         },
         {
           "itemKey": "video",
-          "className": "w-100 text-white justify-content-center text-center d-flex align-items-center",
+          "className": "bg-secondary w-100 text-white justify-content-center text-center d-flex align-items-center mt-3",
           "config": {
             "type": "video",
             "posterUrlKey": "poster",
