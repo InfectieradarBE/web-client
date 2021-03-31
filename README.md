@@ -8,21 +8,33 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 1. Create `.env.local` and add
 ```
 REACT_APP_API_BASE_URL=<your backend - PARTICIPANT-API SERVICE address>
-REACT_APP_DEFAULT_INSTANCE=<instace ID used by the application>
+REACT_APP_DEFAULT_INSTANCE=<instace ID used by the application ex: belgium>
+
+GENERATE_SOURCEMAP=false
 
 REACT_APP_USE_RECAPTCHA=true
+REACT_APP_RECAPTCHA_SITEKEY=<reCAPTCHA public key>
+
+REACT_APP_CONTENT_URL="/assets"
+
+REACT_APP_DEFAULT_LANGUAGE=nl-be
+REACT_APP_FALLBACK_LANGUAGE=nl-be
 
 # optionally disable signup functionality
-REACT_APP_DISABLE_SIGNUP=true
+REACT_APP_DISABLE_SIGNUP=false
 
 # CSP Header sources
+REACT_APP_TITLE=Infectieradar.be
+REACT_APP_DESCRIPTION=Een onderzoek in de strijd tegen epidemieën
 REACT_APP_CSP_DEFAULT_SRC="'self'"
-REACT_APP_CSP_MEDIA_SRC="https://www.rovid.nl"
-REACT_APP_CSP_IMG_SRC="'self' https://www.rovid.nl data:"
-REACT_APP_CSP_STYLE_SRC="'unsafe-inline' 'self'"
-REACT_APP_CSP_SCRIPT_SRC="https://www.gstatic.com/ https://www.google.com/ 'self' 'unsafe-eval'"
+REACT_APP_CSP_MEDIA_SRC="'self' https://infectieradar.be/wp-content/"
+REACT_APP_CSP_IMG_SRC="'self' data: https:"
+REACT_APP_CSP_STYLE_SRC="'unsafe-inline' 'self' https://www.gstatic.com/recaptcha/ https://www.google.com/recaptcha/ "
+REACT_APP_CSP_SCRIPT_SRC="'unsafe-inline' https://www.gstatic.com/recaptcha/ https://www.google.com/recaptcha/ 'self' 'unsafe-eval'"
+REACT_APP_CSP_FRAME_SRC="https://www.google.com/recaptcha/ https://recaptcha.google.com/recaptcha"
 REACT_APP_CSP_CHILD_SRC="https://www.google.com/"
-REACT_APP_CSP_CONNECT_URLS="<all urls which must be allowed in CSP connect-src, including PARTICIPANT-API SERVICE address, separated by spaces>"
+REACT_APP_CSP_CONNECT_URLS="http://localhost:3000 http://192.168.1.5:3000 https://localhost:3000 http://localhost:3231 ws://localhost:3000// ws://localhost:3000/ ws://192.168.1.5:3000/ ws://localhost:3231/ https://www.google.com/recaptcha/ https://www.google.com/ http://www.w3.org/2000/svg"
+
 ```
 
 The option "unsafe-eval" in script-src, is needed for Vega plot rendering.
