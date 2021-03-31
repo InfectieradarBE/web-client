@@ -22,7 +22,7 @@ const landingPage: PageConfig = {
           items: [
             {
               itemKey: 'video',
-              className: 'w-100 h-100 text-light justify-content-center text-center d-flex align-items-center',
+              className: 'bg-secondary h-100 w-100 text-light justify-content-center text-center d-flex align-items-center',
               config: {
                 type: 'video',
                 posterUrlKey: 'poster',
