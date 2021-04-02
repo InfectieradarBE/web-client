@@ -14,7 +14,7 @@ const landingPage: PageConfig = {
   rows: [
     {
       key: 'content',
-      className: 'py-3',
+      className: 'py-3 min-vh-60',
       columns: [
         {
           key: 'videoCol',
@@ -107,7 +107,7 @@ const landingPage: PageConfig = {
 const surveysPage: PageConfig = {
   path: '/home',
   hideWhen: 'unauth',
-  pageKey: 'home',
+  pageKey: 'landing',
   rows: [
     {
       key: 'main',
@@ -115,7 +115,7 @@ const surveysPage: PageConfig = {
       columns: [
         {
           key: 'surveyCol',
-          className: 'col-12 col-lg-6 offset-lg-1',
+          className: 'col-12 col-lg-8',
           items: [{
             itemKey: 'surveyList',
             className: '',
@@ -126,7 +126,7 @@ const surveysPage: PageConfig = {
         },
         {
           key: 'sideCol',
-          className: 'col-12 col-md-10 col-lg-4 pt-3 pt-lg-0',
+          className: 'col-12 col-lg-4 mt-3 mt-lg-0',
           items: [
             {
               itemKey: 'references',
@@ -200,11 +200,11 @@ const settingsPage: PageConfig = {
   rows: [
     {
       key: 'mainRow',
-      className: 'mt-3',
+      className: 'my-3 min-vh-60',
       columns: [
         {
           key: 'settingsCol',
-          className: 'col-12 col-md-10 col-lg-6 offset-lg-1 offset-0',
+          className: 'col-12 col-lg-8',
           items: [{
             itemKey: 'account',
             config: {
@@ -229,7 +229,7 @@ const settingsPage: PageConfig = {
         },
         {
           key: 'helpCol',
-          className: 'col-12 col-md-10 col-lg-4 pt-3 pt-lg-0',
+          className: 'col-12 col-lg-4 mt-3 mt-lg-0',
           items: [
             {
               itemKey: 'references',
@@ -301,7 +301,7 @@ const faqPage: PageConfig = {
   rows: [{
     'key': 'content',
     'fullWidth': false,
-    'className': 'my-3',
+    'className': 'my-3 min-vh-60',
     'columns': [
       {
         'key': 'mainCol',
@@ -373,7 +373,7 @@ const aboutPage: PageConfig = {
   }, {
     key: 'content',
     fullWidth: false,
-    className: 'my-3',
+    className: 'my-3 min-vh-60',
     columns: [
       {
         key: 'mainCol',

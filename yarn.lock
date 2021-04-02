@@ -3577,10 +3577,10 @@ case-web-app-core@^1.0.14:
   resolved "https://registry.yarnpkg.com/case-web-app-core/-/case-web-app-core-1.0.14.tgz#417f1c7e19a2e9a7df48b462b8c8a100d0191d13"
   integrity sha512-/K5s58EqIPvXdirghosBCGuDhGcBW/hXXtid5LYps8jHZMzecQcZJisiYyp46oXN0gCNZJ8GXp/UA+pw0DMNNg==
 
-case-web-ui@^1.1.12:
-  version "1.1.12"
-  resolved "https://registry.yarnpkg.com/case-web-ui/-/case-web-ui-1.1.12.tgz#02fecb5c72ffbd3f7891a56a1a51a8594a93642f"
-  integrity sha512-k2g3STNacEtLAtgSDJF32ofRZ5ZSvcmk0wdPc+sow0YImDdcTEh+zEL6rD+QgKArl9EGetQX2ItyHLdtq5jcJw==
+case-web-ui@^1.1.14:
+  version "1.1.14"
+  resolved "https://registry.yarnpkg.com/case-web-ui/-/case-web-ui-1.1.14.tgz#dd4ff6377a42b2dfb5563658e0fd2e779fd5e045"
+  integrity sha512-SZOqTY10mb6dxpW2NoU4eAfWehCKhpjzAQQsmjm+DsUQngXuLYkDr4NQtFnDVme0RqIethMOgjsPej78eRFswQ==
   dependencies:
     "@fortawesome/fontawesome-free" "^5.15.3"
 
@@ -11562,10 +11562,10 @@ supports-hyperlinks@^2.0.0:
     has-flag "^4.0.0"
     supports-color "^7.0.0"
 
-survey-engine@^0.9.4:
-  version "0.9.4"
-  resolved "https://registry.yarnpkg.com/survey-engine/-/survey-engine-0.9.4.tgz#eaf133bead5ab0d692e39e7c183827dbf0cce683"
-  integrity sha512-U7a6Vi0Jt0Yyut8dkt9phwdr3lYKiAk9KPwpXa5YVTn5cZ2oxM2cR4mxZUQTozf7q8+rbTrAXbGnvMppE0sX+A==
+survey-engine@^0.9.6:
+  version "0.9.6"
+  resolved "https://registry.yarnpkg.com/survey-engine/-/survey-engine-0.9.6.tgz#c6241957e85499f994f1381f5b2a0bb772fe8991"
+  integrity sha512-5ZtkLz53ZXSLApbtF+tNap/vf13p39VwzMmMikdEXnjMmtwI2+GoVU1LJduhO8AB5gu4bTxuHvYzQjpUUD7KcQ==
   dependencies:
     moment "2.24.0"
 
