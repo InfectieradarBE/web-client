@@ -3572,15 +3572,15 @@ case-sensitive-paths-webpack-plugin@2.3.0:
   resolved "https://registry.yarnpkg.com/case-sensitive-paths-webpack-plugin/-/case-sensitive-paths-webpack-plugin-2.3.0.tgz#23ac613cc9a856e4f88ff8bb73bbb5e989825cf7"
   integrity sha512-/4YgnZS8y1UXXmC02xD5rRrBEu6T5ub+mQHLNRj0fzTRbgdBYhsNo2V5EqwgqrExjxsjtF/OpAKAMkKsxbD5XQ==
 
-case-web-app-core@^1.0.14:
-  version "1.0.14"
-  resolved "https://registry.yarnpkg.com/case-web-app-core/-/case-web-app-core-1.0.14.tgz#417f1c7e19a2e9a7df48b462b8c8a100d0191d13"
-  integrity sha512-/K5s58EqIPvXdirghosBCGuDhGcBW/hXXtid5LYps8jHZMzecQcZJisiYyp46oXN0gCNZJ8GXp/UA+pw0DMNNg==
+case-web-app-core@^1.0.16:
+  version "1.0.16"
+  resolved "https://registry.yarnpkg.com/case-web-app-core/-/case-web-app-core-1.0.16.tgz#58d628a4beb970e6b2b685b06796352812722cca"
+  integrity sha512-sWkD1q4Vo1/uzNTtqo8btXitEM2anTLeMcibvQue1UOzoOdjuD9KwenZILhtWUmqupKvzojVOde9IsvPk/YPDA==
 
-case-web-ui@^1.1.14:
-  version "1.1.14"
-  resolved "https://registry.yarnpkg.com/case-web-ui/-/case-web-ui-1.1.14.tgz#dd4ff6377a42b2dfb5563658e0fd2e779fd5e045"
-  integrity sha512-SZOqTY10mb6dxpW2NoU4eAfWehCKhpjzAQQsmjm+DsUQngXuLYkDr4NQtFnDVme0RqIethMOgjsPej78eRFswQ==
+case-web-ui@^1.1.16:
+  version "1.1.16"
+  resolved "https://registry.yarnpkg.com/case-web-ui/-/case-web-ui-1.1.16.tgz#1901d883fda76cf54fd816649c04087f16bd68da"
+  integrity sha512-0gZbP4Zon/vCYh5E0G9ZOPe92LhsVIeGUupYoEXwLyBEQkJUREB1jFRGUSsEwIvzkmHniP3ttjGT6fzgghEZyA==
   dependencies:
     "@fortawesome/fontawesome-free" "^5.15.3"
 
@@ -11562,10 +11562,10 @@ supports-hyperlinks@^2.0.0:
     has-flag "^4.0.0"
     supports-color "^7.0.0"
 
-survey-engine@^0.9.6:
-  version "0.9.6"
-  resolved "https://registry.yarnpkg.com/survey-engine/-/survey-engine-0.9.6.tgz#c6241957e85499f994f1381f5b2a0bb772fe8991"
-  integrity sha512-5ZtkLz53ZXSLApbtF+tNap/vf13p39VwzMmMikdEXnjMmtwI2+GoVU1LJduhO8AB5gu4bTxuHvYzQjpUUD7KcQ==
+survey-engine@^0.9.7:
+  version "0.9.7"
+  resolved "https://registry.yarnpkg.com/survey-engine/-/survey-engine-0.9.7.tgz#bd9dfc798b1a8c4a7732e9ded4b3db7c682d20c2"
+  integrity sha512-5FAuQHwKYypvY0j5YmqcDQ043N3w1XwqsZQCYExS5oADkaB8/Tq1RiwoSrBeIlTfU6VMEjjH6maf2ZN2z7W62w==
   dependencies:
     moment "2.24.0"
 
