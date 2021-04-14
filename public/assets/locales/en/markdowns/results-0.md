@@ -12,12 +12,12 @@ On April 7, 2021 we had 376 participants. 50.3% of the participants are female, 
 
 ### Age distribution
 
-<img src="belgium/images/agedistribution.png" width="100%">
+<img src="assets/images/agedistribution.png" width="100%">
 
 
 ### Geographical distribution
 
-<img src="belgium/images/ParticipationMap.png" width="100%">
+<img src="assets/images/ParticipationMap.png" width="100%">
 
 
 <br />
@@ -31,4 +31,4 @@ On April 7, 2021 we had 570 completed weekly symptom questionnaires from 319 par
 
 In the figure below we present how often (in percentages) a symptom was reported in questionnaires where at least one symptom was reported.
 
-<img src="belgium/images/ReportedSymptoms_NL.png" width="100%">
+<img src="assets/images/ReportedSymptoms_NL.png" width="100%">

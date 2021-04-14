@@ -12,12 +12,12 @@ Op 7 april 2021 hadden we 376 deelnemers. 50.3% van de deelnemers is vrouw, en 4
 
 ### Leeftijdsverdeling
 
-<img src="belgium/images/agedistribution.png" width="100%">
+<img src="assets/images/agedistribution.png" width="100%">
 
 
 ### Geografische verdeling
 
-<img src="belgium/images/ParticipationMap.png" width="100%">
+<img src="assets/images/ParticipationMap.png" width="100%">
 
 
 <br />
@@ -30,4 +30,4 @@ Op 6 april 2021 hadden we 570 ingevulde wekelijkse symptomen vragenlijsten van 3
 ### Gerapporteerde symptomen
 In de figuur hieronder geven we procentueel aan hoe vaak een bepaald symptoom is gerapporteerd in de vragenlijsten waarbij minstens één symptoom werd doorgegeven.
 
-<img src="belgium/images/ReportedSymptoms_NL.png" width="100%">
+<img src="assets/images/ReportedSymptoms_NL.png" width="100%">
