@@ -7,6 +7,8 @@ import {
   initI18n,
 } from 'case-web-app-core';
 
+import { LoadingPlaceholder } from 'case-web-ui';
+
 import '@fontsource/open-sans';
 // import '@fontsource/open-sans/300.css'; // for light font
 import '@fontsource/open-sans/400-italic.css';
@@ -28,7 +30,10 @@ initI18n('nl-be', 'nl-be', localeURL);
 ReactDOM.render(
   <React.StrictMode>
     <Provider store={store}>
-      <Suspense fallback="loading">
+      <Suspense fallback={<LoadingPlaceholder
+        color="secondary"
+        minHeight="100vh"
+      />}>
         <App />
       </Suspense>
     </Provider>
